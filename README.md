@@ -1,2 +1,5 @@
-# PersonalWebsite
-My own personal website, give it a try : https://navid.glitch.me
+MY PERSONAL WEBSITE:
+---------------
+---------------
+
+In this website , i showcase my own telegram bots,android apps and games , and my 3D models.
